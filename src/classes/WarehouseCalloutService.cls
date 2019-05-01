@@ -8,6 +8,6 @@ public with sharing class WarehouseCalloutService {
     // REST endpoint and update equipment on hand.
     public static void runWarehouseEquipmentSync(){
         
-    }
+    }//added this linne
 
 }
